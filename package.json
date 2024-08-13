@@ -1,0 +1,11 @@
+{
+  "name": "backend-with-chai-aur-code",
+  "version": "1.0.0",
+  "description": "fllow a video series on chai aur code  youtube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BulBul Ahammed",
+  "license": "ISC"
+}
